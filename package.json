@@ -1,0 +1,19 @@
+{
+  "name": "restful-ts",
+  "version": "1.0.0",
+  "description": "node restful + ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yanchenyu/restful-ts.git"
+  },
+  "author": "yanchenyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yanchenyu/restful-ts/issues"
+  },
+  "homepage": "https://github.com/Yanchenyu/restful-ts#readme"
+}
