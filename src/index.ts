@@ -31,3 +31,4 @@ function getFullPerson(person: Person) {
 let fullUsr = new Student('xiaoli', 14);
 
 document.body.innerHTML = getPerson(user) + '<br>' + getFullPerson(fullUsr);
+
